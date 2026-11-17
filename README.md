@@ -3,9 +3,9 @@
 A responsive, static portfolio website designed for GitHub Pages.
 
 ## 1. Personalize before publishing
-Search the files for `Your Name`, `YOUR NAME`, and `YOUR.EMAIL@example.com`, then replace them with your details.
+Searc the files for `Your Name`, `YOUR NAME`, and `YOUR.EMAIL@example.com`, then replace them with your details.
 
-Also update:
+Also update
 - Your exact Master's programme name, dates, expected graduation, relevant modules and thesis topic.
 - Your Bachelor's dates and any relevant coursework or academic achievements.
 - LinkedIn and GitHub profile URLs.
